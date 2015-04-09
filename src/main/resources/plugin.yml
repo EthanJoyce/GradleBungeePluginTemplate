@@ -1,4 +1,4 @@
 name: ${project.name}
-version: ${projectVersion}
+version: ${project.version}
 author: ${author}
 main: ${mainClass}
