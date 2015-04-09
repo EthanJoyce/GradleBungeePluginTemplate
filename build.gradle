@@ -16,6 +16,7 @@ repositories {
 
 dependencies {
     compile group: 'net.md-5', name: 'bungeecord-api', version: '1.8-SNAPSHOT'
+    compile group: 'org.projectlombok', name: 'lombok', version: '1.16.2'
 }
 
 processResources {
